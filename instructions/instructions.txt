@@ -7,3 +7,6 @@ findByBirthDate(LocalDate birthDate)
 Challenge:
 findByNameLikeIgnoreCase(String name)
 findByBirthDateBetween(LocalDate start, LocalDate end)
+
+Extra:
+Create TodoItemDao
